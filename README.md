@@ -3,6 +3,7 @@
 > **Visual AutoModerator rule editor — built as a Reddit Devvit app.**  
 > Stop writing YAML by hand. Drag, connect, and save moderation rules directly from your subreddit.
 
+*(Click the image below to play the demo video)*<br/>
 [![AutoModFlow Demo Video](https://img.youtube.com/vi/xoIgNVIheeA/maxresdefault.jpg)](https://www.youtube.com/watch?v=xoIgNVIheeA)
 
 ---
