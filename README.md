@@ -3,8 +3,7 @@
 > **Visual AutoModerator rule editor — built as a Reddit Devvit app.**  
 > Stop writing YAML by hand. Drag, connect, and save moderation rules directly from your subreddit.
 
-
-
+[![AutoModFlow Demo Video](https://img.youtube.com/vi/xoIgNVIheeA/maxresdefault.jpg)](https://www.youtube.com/watch?v=xoIgNVIheeA)
 
 ---
 
@@ -615,14 +614,15 @@ BSD 3-Clause — see [LICENSE](./LICENSE).
 
 ## Demo Images
 
-![Demo Image 1](https://github.com/user-attachments/assets/c245eb2e-d7fe-48db-ab5e-ce69a3f9adaf)
+### Dashboard
+![Dashboard Full](docs/dashboard_full.jpeg)
 
-![Demo Image 2](https://github.com/user-attachments/assets/cb13db07-cac1-49c8-a540-cf221707d6d9)
+### Dashboard (Zoomed In)
+![Dashboard Zoomed In](docs/dashboard_full_zoomed_in.jpeg)
 
-![Demo Image 3](https://github.com/user-attachments/assets/c98eb8dc-1e20-4c93-ab01-a77402793676)
+### Import AutoMod YAML
+![Import AutoMod YAML](docs/import_autmod_yaml.jpeg)
 
-
-## Demo Video
-
-[![AutoModFlow Demo](https://img.youtube.com/vi/xoIgNVIheeA/0.jpg)](https://www.youtube.com/watch?v=xoIgNVIheeA)
+### Preset Gallery
+![Preset Gallery](docs/preset_gallery.jpeg)
 
